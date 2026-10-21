@@ -115,6 +115,8 @@ nav a:hover {
     font-size: 1.2rem;
     margin-bottom: 30px;
     max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .btn {
